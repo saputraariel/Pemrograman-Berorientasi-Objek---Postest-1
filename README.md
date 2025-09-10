@@ -63,5 +63,21 @@ Di bagian menu ini bisa Menuju ke 5 arah (Menambah alat musik, melihat alat musi
 
 Dibgain Menambah alat musik ini, memasukan nama alat musik lalu daerah alat musik tersebut. jika sudh selesai maka akaan kembali otomatis kembali ke Bagian Menu
 
+<img width="625" height="107" alt="image" src="https://github.com/user-attachments/assets/d2eeef61-b58a-4650-8bfb-ef256d942981" />
 
+3. Bagian Melihat alat musik
+
+di bagian ini lanngsung menampilkan data alat2 musik tradisional dari data yang udah di persiapkan maupun alat musik yang baru saja di tambahkan
+
+<img width="487" height="252" alt="image" src="https://github.com/user-attachments/assets/07a73757-dc75-45c9-9792-928603fd090f" />
+
+4. Bagian Update Alat Musik
+
+Di bagian Update ini, dia akan menampilkan data alat2 musik tradisional yang sudh ada. lalu diminta untuk meng input nomor dari alat musik yang ingin di ubah datanya.
+
+<img width="798" height="309" alt="image" src="https://github.com/user-attachments/assets/3787027e-5775-4c39-9ff2-912e96bb101f" />
+
+5. Bagian Keluar
+
+Bagian ini akan mengeluurkan pengguna dari sistem. dan akan memunculkan notifikasi "Anda Berhasil LOg out"
 
